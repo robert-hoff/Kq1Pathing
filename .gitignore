@@ -1,0 +1,18 @@
+# Visual Studio files
+/.vs/
+
+# user files
+*.user
+
+# Builds
+/bin/
+/obj/
+/Kq1Pathing/bin/
+/Kq1Pathing/obj/
+
+# Windows shortcuts
+*.lnk
+
+# generated files
+/output/
+
