@@ -313,6 +313,10 @@ namespace Kq1Pathing.RoomPathing
         private void PrintSolutions(bool omitPositionsSeen)
         {
             solutions.Sort();
+            if (solutions.Count == 0)
+            {
+                Debug.WriteLine($"no paths were found");
+            }
             coordinateSeen = new();
             foreach (var solutionPath in solutions)
             {

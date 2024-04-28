@@ -9,6 +9,8 @@
 /obj/
 /Kq1Pathing/bin/
 /Kq1Pathing/obj/
+/Kq1Pathing.Tests/bin/
+/Kq1Pathing.Tests/obj/
 
 # Windows shortcuts
 *.lnk
