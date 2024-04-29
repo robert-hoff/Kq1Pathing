@@ -9,8 +9,8 @@ Open the project file `Kq1Pathing.sln` in Visual Studio 2022 or later.
 
 ## Usage
 
-Use the `PathFinder` class to specify endpoints and intitiate a shortest path-search.
-One or more rectangular goal regions can be speficied with `SetGoalRegion`. `FindPathsFrom` describes the
+Use the `PathFinder` class to specify endpoints and initiate a shortest path-search.
+One or more rectangular goal regions can be specified with `SetGoalRegion`. `FindPathsFrom` describes the
 starting point and initiates the search. `ShowSolutions` prints the results. For example:
 
 ```csharp
